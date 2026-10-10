@@ -1,0 +1,14 @@
+venv/
+__pycache__/
+*.pyc
+smart_fishing.db
+ml_models/*.joblib
+uploads/*
+.env
+node_modules/
+client/dist/
+FishImgDataset/
+server/uploads/
+server/models/
+firebase-service-account.json
+server/firebase-service-account.json
