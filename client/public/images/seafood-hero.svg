@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" fill="none">
+  <defs>
+    <linearGradient id="sea" x1="84" y1="58" x2="683" y2="500" gradientUnits="userSpaceOnUse"><stop stop-color="#75D5C2"/><stop offset="1" stop-color="#177E78"/></linearGradient>
+    <linearGradient id="fish" x1="174" y1="203" x2="550" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#FFD978"/><stop offset="1" stop-color="#F29165"/></linearGradient>
+    <filter id="shadow" x="85" y="146" width="610" height="355" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <circle cx="488" cy="170" r="118" fill="#FFD166" fill-opacity=".92"/>
+  <circle cx="488" cy="170" r="143" stroke="#E8FFF8" stroke-opacity=".18" stroke-width="2"/>
+  <circle cx="488" cy="170" r="170" stroke="#E8FFF8" stroke-opacity=".1" stroke-width="2"/>
+  <path d="M56 414c89-60 151 59 243 0s153 59 244 0 132 32 190-4" stroke="url(#sea)" stroke-width="28" stroke-linecap="round"/>
+  <path d="M69 463c83-51 152 51 236 0s151 51 235 0 130 27 188-5" stroke="#B6F0DF" stroke-opacity=".58" stroke-width="10" stroke-linecap="round"/>
+  <ellipse cx="382" cy="355" rx="255" ry="78" fill="#092E36" fill-opacity=".36" filter="url(#shadow)"/>
+  <path d="M143 306c65-91 187-128 304-104 76 16 132 62 176 115-48 54-105 95-180 108-120 21-239-22-300-119Z" fill="url(#fish)"/>
+  <path d="m140 306-86-72 20 87-20 87 86-69" fill="#ED8065"/>
+  <path d="M270 218c34-51 74-73 122-80-9 47-27 79-64 105m-22 164c32 37 75 55 122 59-10-47-29-78-66-101" fill="#F6AA70"/>
+  <path d="M355 298c48-35 106-45 155-22-30 19-45 40-51 72-37-22-67-35-104-50Z" fill="#E9705C"/>
+  <circle cx="570" cy="299" r="11" fill="#173A43"/>
+  <circle cx="574" cy="295" r="3.5" fill="#fff"/>
+  <path d="M615 344c-18 17-39 24-64 21" stroke="#A9433A" stroke-width="7" stroke-linecap="round"/>
+  <path d="M242 305c39-17 73-25 110-24m-91 65c35 1 66 8 98 25" stroke="#FFF5D8" stroke-opacity=".72" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="154" cy="150" r="8" fill="#E5FFF8" fill-opacity=".7"/>
+  <circle cx="202" cy="104" r="5" fill="#E5FFF8" fill-opacity=".55"/>
+  <circle cx="104" cy="206" r="5" fill="#E5FFF8" fill-opacity=".6"/>
+</svg>
